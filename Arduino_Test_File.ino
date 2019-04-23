@@ -1,3 +1,11 @@
+/*
+ * This code is to test the serial reading of demo.py and visualized the data on the plot from a single Arduino.
+ * 
+ * MAX_WIND: 25 m/s
+ * MAX_TORQUE: 50 N*m
+ * MAX_ROTATION: 50 rad/s
+ */
+
 #define MAX_WIND 25
 
 int torque = 0;
